@@ -12,3 +12,7 @@
 ## 2. Zpětnovazební učení
 - zpětnovazební učení, Q-učení
 - příklad: OpenAI gym - MoutainCar
+
+## 3. Evoluční algoritmy
+- evoluční algoritmy, jednoduchý genetický algoritmus
+- příklad: genetické algoritmy pro OneMax a součet podmnožiny
