@@ -16,3 +16,9 @@
 ## 3. Evoluční algoritmy
 - evoluční algoritmy, jednoduchý genetický algoritmus
 - příklad: genetické algoritmy pro OneMax a součet podmnožiny
+- knihovna DEAP pro OneMAx
+
+## 4. Evoluční algoritmy - spojitá a kombinatorická optimalizace
+- evoluční algoritmy, kombinatorické a spojité reprezentace jedinců a jejich genetické operátory
+- příklad: genetický algoritmus pro minimalizaci Rastrigin funkce
+- knihovna DEAP pro Rastrigin funkci
