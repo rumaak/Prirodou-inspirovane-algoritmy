@@ -25,9 +25,9 @@
 
 ## 5. Evoluční algoritmy - genetické programování
 - evoluční algoritmy, genetické programování
-- příklad: genetické programování pro symbolickou regresi a klasifikaci v iris datasetu
+- příklad: genetické programování pro symbolickou regresi a pro klasifikaci (iris dataset)
 
 ## 6. Neuronové sítě
 - jednoduchý perceptron, vícevrstevný perceptron
-- příklad: vícevrstevný perceptron pro dataset o víně
+- příklad: jednoduchý perceptron (náhodná data), vícevrstevný perceptron (wine dataset)
 - úvod do knhovny tensorflow
