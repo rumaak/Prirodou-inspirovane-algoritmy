@@ -31,3 +31,7 @@
 - jednoduchý perceptron, vícevrstevný perceptron
 - příklad: jednoduchý perceptron (náhodná data), vícevrstevný perceptron (wine dataset)
 - úvod do knhovny tensorflow
+
+## 7. Radial Basics Functions a Rekurentní neuronové sítě
+- Radial Basics Functions, rekurentní neuronové sítě
+- příklad: RBF a k-means (iris dataset), RNN, klasifikace sekvencí pomocí, generování textu
