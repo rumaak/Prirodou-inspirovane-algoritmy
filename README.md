@@ -35,3 +35,8 @@
 ## 7. Radial Basics Functions a Rekurentní neuronové sítě
 - Radial Basics Functions, rekurentní neuronové sítě
 - příklad: RBF a k-means (iris dataset), RNN, klasifikace sekvencí, generování textu
+
+## 8. Konvoluční sítě
+- Konvoluční sítě
+- příklad: MNIST, CIFAR10, konvoluční sít, matoucí vzory (MNIST), VGG16
+- Tensorboard -- pro vizualizaci tensorflow
