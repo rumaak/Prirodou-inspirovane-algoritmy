@@ -39,4 +39,9 @@
 ## 8. Konvoluční sítě
 - Konvoluční sítě
 - příklad: MNIST, CIFAR10, konvoluční sít, matoucí vzory (MNIST), VGG16
-- Tensorboard -- pro vizualizaci tensorflow
+- knihovna Tensorboard -- pro vizualizaci tensorflow
+
+## 9. Neuroevoluce
+- neuroevoluce, evoluce vah, struktury, vah i struktury najednou (NEAT)
+- příklad: evoluce vah (iris), NEAT (iris)
+- seznámení s neat-python knihovnou
