@@ -45,3 +45,7 @@
 - neuroevoluce, evoluce vah, struktury, vah i struktury najednou (NEAT)
 - příklad: evoluce vah (iris), NEAT (iris)
 - seznámení s neat-python knihovnou
+
+## 10. Hluboké zpětnovazební učení
+- hluboké Q učení
+- příklad" hluboké Q učení (iris)
