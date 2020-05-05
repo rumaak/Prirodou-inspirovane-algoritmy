@@ -1,5 +1,8 @@
 # Přírodou inspirované algoritmy - cvičení
 
+Cvičení k předmětu [Přírodou inspirované algoritmy](https://martinpilat.com/cs/prirodou-inspirovane-algoritmy).
+Na získání zápočtu bude potřeba vyřešit 3 domácí úkoly, které budou zadány v průběhu semestru.
+
 ## 1. Úvod
 - úvod do syntaxe Pythonu
 - seznámení se základními knihovnami (numpy, matplotlib, pandas)
