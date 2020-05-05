@@ -48,4 +48,8 @@
 
 ## 10. Hluboké zpětnovazební učení
 - hluboké Q učení
-- příklad" hluboké Q učení (iris)
+- příklad: hluboké Q učení (iris)
+
+## 11. Rojové algoritmy
+- optimalizace hejnem částic, mravenčí kolonie, včelí kolonie
+- příklad: optimalizace hejnem částic (rastrigin funkce), mravenčí kolonie (problém obchodního cestujícího)
