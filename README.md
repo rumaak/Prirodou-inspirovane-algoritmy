@@ -57,3 +57,7 @@ Na získání zápočtu bude potřeba vyřešit 3 domácí úkoly, které budou 
 ## 11. Rojové algoritmy
 - optimalizace hejnem částic, mravenčí kolonie, včelí kolonie
 - příklad: optimalizace hejnem částic (rastrigin funkce), mravenčí kolonie (problém obchodního cestujícího)
+
+## 12. Umělý život
+- celulární automaty, Convay's Game of Life, Langton's Ant, Tierra
+- příklad: Celulární automaty, Convay's Game of Life, Langton's Ant
