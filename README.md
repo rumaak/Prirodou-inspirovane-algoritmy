@@ -61,3 +61,7 @@ Na získání zápočtu bude potřeba vyřešit 3 domácí úkoly, které budou 
 ## 12. Umělý život
 - celulární automaty, Convay's Game of Life, Langton's Ant, Tierra
 - příklad: Celulární automaty, Convay's Game of Life, Langton's Ant
+
+## 13. Zpracování přirozeného jazyka
+- Natural language processing, Reading Comprehension, word2vec, strojový překlad
+- příklad: strojový překlad pomocí RNN mezi čj a aj
