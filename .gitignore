@@ -4,5 +4,6 @@ __pycache__
 todo/*
 *.docx
 solution.ipynb
+01_uvod/tmp_file.txt
 08_konvoluce/logs2/*
 09_neuroevoluce/results/*
