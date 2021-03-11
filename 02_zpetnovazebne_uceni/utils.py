@@ -23,7 +23,7 @@ def show_animation(agent, env, steps=200, episodes=1):
         R = 0
         t = 0
         r = 0
-        while not done and t < 200:
+        while not done and t < steps:
             env.render()
             action = agent.act(obs, r, done)
             obs, r, done, _ = env.step(action)
